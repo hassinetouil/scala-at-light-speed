@@ -4,7 +4,7 @@ object Basics extends App {
   // derfine a value
   val meaningOfLife: Int = 42 // const int meaningOfLife = 42;
   // Int, Boolean, Char, Double, Float, String;
-  val aBoolean = fasle
+  val aBoolean = false
   // strings and string opperations
   val aString = "I love Scala"
   val aComposedString = "I" + " " + "love" + " " + "Scala"
